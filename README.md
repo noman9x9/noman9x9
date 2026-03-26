@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/noman9x9/hakimshifat/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/noman9x9/noman9x9/output/snake.svg" alt="Snake animation" />
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/noman9x9/count.svg?"  />
